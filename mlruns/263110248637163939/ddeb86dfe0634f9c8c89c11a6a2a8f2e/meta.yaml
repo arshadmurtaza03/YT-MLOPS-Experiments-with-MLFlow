@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263110248637163939/ddeb86dfe0634f9c8c89c11a6a2a8f2e/artifacts
+end_time: 1764169511417
+entry_point_name: ''
+experiment_id: '263110248637163939'
+lifecycle_stage: active
+run_id: ddeb86dfe0634f9c8c89c11a6a2a8f2e
+run_name: nervous-bug-399
+run_uuid: ddeb86dfe0634f9c8c89c11a6a2a8f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764169511302
+status: 3
+tags: []
+user_id: Arshad Murtaza

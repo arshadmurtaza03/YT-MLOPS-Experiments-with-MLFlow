@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263110248637163939/b33fc1e597d64ce88bd564f4fa7d6fb1/artifacts
+end_time: 1764169511088
+entry_point_name: ''
+experiment_id: '263110248637163939'
+lifecycle_stage: active
+run_id: b33fc1e597d64ce88bd564f4fa7d6fb1
+run_name: serious-sloth-432
+run_uuid: b33fc1e597d64ce88bd564f4fa7d6fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764169510969
+status: 3
+tags: []
+user_id: Arshad Murtaza

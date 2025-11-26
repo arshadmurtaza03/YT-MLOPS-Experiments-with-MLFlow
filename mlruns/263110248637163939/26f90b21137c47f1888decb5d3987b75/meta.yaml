@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263110248637163939/26f90b21137c47f1888decb5d3987b75/artifacts
+end_time: 1764169512623
+entry_point_name: ''
+experiment_id: '263110248637163939'
+lifecycle_stage: active
+run_id: 26f90b21137c47f1888decb5d3987b75
+run_name: learned-cow-744
+run_uuid: 26f90b21137c47f1888decb5d3987b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764169512511
+status: 3
+tags: []
+user_id: Arshad Murtaza

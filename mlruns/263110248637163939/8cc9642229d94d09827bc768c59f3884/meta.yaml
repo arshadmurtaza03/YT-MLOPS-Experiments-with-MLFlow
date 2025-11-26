@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263110248637163939/8cc9642229d94d09827bc768c59f3884/artifacts
+end_time: 1764169510914
+entry_point_name: ''
+experiment_id: '263110248637163939'
+lifecycle_stage: active
+run_id: 8cc9642229d94d09827bc768c59f3884
+run_name: flawless-kit-172
+run_uuid: 8cc9642229d94d09827bc768c59f3884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764169510803
+status: 3
+tags: []
+user_id: Arshad Murtaza

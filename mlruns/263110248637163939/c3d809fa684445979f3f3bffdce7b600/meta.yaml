@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263110248637163939/c3d809fa684445979f3f3bffdce7b600/artifacts
+end_time: 1764169510749
+entry_point_name: ''
+experiment_id: '263110248637163939'
+lifecycle_stage: active
+run_id: c3d809fa684445979f3f3bffdce7b600
+run_name: sneaky-donkey-518
+run_uuid: c3d809fa684445979f3f3bffdce7b600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764169510600
+status: 3
+tags: []
+user_id: Arshad Murtaza

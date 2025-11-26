@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/263110248637163939/a50261309e6e4d6abbbaffce9c8c1baa/artifacts
+end_time: 1764169511607
+entry_point_name: ''
+experiment_id: '263110248637163939'
+lifecycle_stage: active
+run_id: a50261309e6e4d6abbbaffce9c8c1baa
+run_name: efficient-pug-636
+run_uuid: a50261309e6e4d6abbbaffce9c8c1baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764169511471
+status: 3
+tags: []
+user_id: Arshad Murtaza

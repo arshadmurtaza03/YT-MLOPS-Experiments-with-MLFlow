@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819844468246031161/10b38bb9f7a14c4c974a2092e9e2f214/artifacts
+end_time: 1764165357041
+entry_point_name: ''
+experiment_id: '819844468246031161'
+lifecycle_stage: active
+run_id: 10b38bb9f7a14c4c974a2092e9e2f214
+run_name: wistful-moose-897
+run_uuid: 10b38bb9f7a14c4c974a2092e9e2f214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764165355135
+status: 3
+tags: []
+user_id: Arshad Murtaza

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c660018c780a4535b4a415c7b83269a9/artifacts
+end_time: 1764089456743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c660018c780a4535b4a415c7b83269a9
+run_name: bustling-tern-739
+run_uuid: c660018c780a4535b4a415c7b83269a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764089455867
+status: 3
+tags: []
+user_id: Arshad Murtaza

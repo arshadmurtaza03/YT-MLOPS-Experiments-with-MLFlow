@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/226fc666d9314eb39ecdc44c8eaa1e0c/artifacts
+end_time: 1764088283349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 226fc666d9314eb39ecdc44c8eaa1e0c
+run_name: melodic-fawn-430
+run_uuid: 226fc666d9314eb39ecdc44c8eaa1e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764088283203
+status: 3
+tags: []
+user_id: Arshad Murtaza
